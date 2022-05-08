@@ -1,5 +1,4 @@
-# ICS20-Unit01-05-HTML-MDL#
-
+# ICS20-Unit01-05-HTML-MDL
 [![GitHub's Super Linter](https://github.com/evan-cagiannos/ICS20-Unit01-05-HTML-MDL/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/evan-cagiannos/ICS20-Unit01-05-HTML-MDL/actions)
 
 [![Run on Repl.it](https://repl.it/badge/github/evan-cagiannos/ICS20-Unit01-05-HTML-MDL](https://repl.it/github/evan-cagiannos/ICS20-unit1-05-html)
